@@ -1,3 +1,8 @@
+"""
+CI/CD testing example.
+
+On every code change, run all tests automatically.
+"""
 import pickle
 import numpy as np
 from typing import List
